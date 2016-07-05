@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;golang-jwt-demo&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../newDemo" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../godemo" />
+      <root url="file://$PROJECT_DIR$/../drone" />
+      <root url="file://$PROJECT_DIR$/../wallwa.com2.0" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../liferich" />
+      <root url="file://$PROJECT_DIR$/../wallwa.com" />
+      <root url="file://$PROJECT_DIR$/../Crawler" />
+      <root url="file://$PROJECT_DIR$/../demo" />
+      <root url="file://$PROJECT_DIR$/../dbtest" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../util" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
